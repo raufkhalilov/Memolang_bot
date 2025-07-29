@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/memolang_bot.dir/src/main.cpp.o -o memolang_bot  external/cpr/cpr/libcpr.a /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/CMakeFiles/json-populate
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/CMakeFiles/json-populate.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule

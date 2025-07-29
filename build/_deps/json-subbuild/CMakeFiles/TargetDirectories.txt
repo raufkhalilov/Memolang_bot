@@ -1,0 +1,3 @@
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/CMakeFiles/json-populate.dir
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/CMakeFiles/edit_cache.dir
+/home/corp.1440.space/r.khalilov/projects/MemoLang/build/_deps/json-subbuild/CMakeFiles/rebuild_cache.dir
